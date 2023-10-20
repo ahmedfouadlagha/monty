@@ -25,7 +25,7 @@ void free_stack(stack_t **stack)
 }
 
 /**
- * init_stack - Initializes a stack_t stack with beginning
+ * init_stack - Initializes a stack_t stack with the beginning
  *              stack and ending queue nodes.
  * @stack: A pointer to an unitialized stack_t stack.
  *
